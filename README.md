@@ -14,7 +14,7 @@
 	<h2>Classifier:-</h2>
 	<p>In this project the Classifier i used is <mark>Haarcascades classifier</mark> which is pre-define Classifier.</p>
 	<h2>Sub projects:-</h2>
-	<p>In the Object detection project there are 5 sub projects they are:-
+	<p>In the Object detection project there are 6 sub projects they are:-
 		<ol id="A">
 			<li>Face Detection</li>
 			<li>Eye Detection</li>
